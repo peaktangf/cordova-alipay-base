@@ -1,0 +1,47 @@
+{
+  "_from": "git+https://github.com/xueron/cordova-alipay-base.git",
+  "_id": "cordova-alipay-base@0.0.10",
+  "_inBundle": false,
+  "_integrity": "sha1-luhP2sdF//TNb+rCZ+F9nfllHCE=",
+  "_location": "/cordova-alipay-base",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/xueron/cordova-alipay-base",
+    "rawSpec": "https://github.com/xueron/cordova-alipay-base",
+    "saveSpec": "git+https://github.com/xueron/cordova-alipay-base.git",
+    "fetchSpec": "https://github.com/xueron/cordova-alipay-base.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/xueron/cordova-alipay-base.git#1e353bc218431db21ca3a1fb4695f457f471a1af",
+  "_spec": "https://github.com/xueron/cordova-alipay-base",
+  "_where": "/Users/haokur/code/project/chuangyi-app",
+  "bundleDependencies": false,
+  "cordova_name": "Alipay Basic Mobile Payment Plugin",
+  "deprecated": false,
+  "description": "阿里支付移动支付Cordova插件",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ],
+  "issue": "https://github.com/xueron/cordova-alipay-base/issues",
+  "keywords": [
+    "alipay",
+    "阿里支付",
+    "支付宝"
+  ],
+  "license": "MIT license",
+  "name": "cordova-alipay-base",
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "repo": "https://github.com/xueron/cordova-alipay-base",
+  "version": "0.0.10"
+}
